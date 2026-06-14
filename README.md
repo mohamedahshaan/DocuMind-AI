@@ -181,7 +181,7 @@ DocuMind-AI/
 ├── app.py              ← Streamlit UI (chatbot interface)
 ├── rag_engine.py       ← RAG pipeline (indexing + retrieval)
 ├── requirements.txt    ← Python dependencies
-├── .env.example        ← Environment variable template
+├── .env                ← Environment variable template
 └── README.md           ← This file
 ```
 
